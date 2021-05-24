@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetTopMusicForm", "GetTopMusicForm\GetTopMusicForm.csproj", "{12652EEB-F7BE-4188-B08D-0D66626F9D06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12652EEB-F7BE-4188-B08D-0D66626F9D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12652EEB-F7BE-4188-B08D-0D66626F9D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12652EEB-F7BE-4188-B08D-0D66626F9D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12652EEB-F7BE-4188-B08D-0D66626F9D06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F25B6F1-DD40-4F88-9113-B8CD6741EC78}
+	EndGlobalSection
+EndGlobal
